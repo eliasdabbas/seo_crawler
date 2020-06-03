@@ -1,6 +1,8 @@
 # SEO Crawler
 Bare-bones Basic SEO Crawler using Python Scrapy
 
+## This project has become part of the advertools package, checkout the [documentation page](https://advertools.readthedocs.io/en/master/advertools.spider.html)
+
 Using Scrapy, get the main SEO elements for exploratory analysis of a website. 
 It works by supplying a list of known URLs to crawl and return structured results. 
 
